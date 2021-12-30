@@ -1,6 +1,6 @@
 # CSharpTetris
 
-A basic implementation of Tetris in c#\
+A basic implementation of Tetris in c# using Windows Forms\
 Controls:\
 Left: A\
 Right: D\
